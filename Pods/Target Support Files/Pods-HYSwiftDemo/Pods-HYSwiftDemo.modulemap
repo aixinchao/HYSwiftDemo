@@ -1,0 +1,6 @@
+module Pods_HYSwiftDemo {
+  umbrella header "Pods-HYSwiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
